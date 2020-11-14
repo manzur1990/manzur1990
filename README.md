@@ -15,7 +15,7 @@
 
 Hi, I'm [Jorge Manzur], a Full Stack Developer 🚀, currently, I'm a Project Collaborator [@Story Squad](https://www.storysquad.education/)
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
   
 **Talking about Personal Stuffs:**
 
