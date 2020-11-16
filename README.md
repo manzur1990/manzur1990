@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Jorge Manzur], a Full Stack Developer 🚀, currently, I'm a Project Collaborator [@Story Squad](https://www.storysquad.education/)
+Hi, I'm [Jorge Manzur], a Full Stack Developer 🚀, currently I'm a project collaborator [@Story Squad](https://www.storysquad.education/)
 
   
   
