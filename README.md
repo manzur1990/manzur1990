@@ -14,8 +14,9 @@ I'm Jorge Manzur, a Full Stack Developer 🚀, currently I'm a project collabora
 <a href="https://www.instagram.com/manzur1990/">
   <img align="left" alt="Jorge's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-  
-  <br />
+ 
+<br />
+<br />
   
 **Talking about Personal Stuffs:**
 
