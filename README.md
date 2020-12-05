@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Jorge Manzur, a Full Stack Developer 🚀, currently I'm a project collaborator [@Story Squad](https://www.storysquad.education/)
+I'm Jorge Manzur, a Full Stack Developer 🚀. currently, I'm a project collaborator [@Story Squad](https://www.storysquad.education/)
 
 <br />
 
