@@ -19,9 +19,7 @@ I'm Jorge Manzur, a Full Stack Developer 🚀. currently, I'm a project collabor
 <br />
   
 **Talking about Personal Stuffs:**
-
-- 👨 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Python and PostgreSQL; 
+- 🌱 I’m currently learning Typescript and Recoil; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@manzur1990](https://twitter.com/barthimus);
 
