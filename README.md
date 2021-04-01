@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Jorge Manzur, a Full Stack Developer 🚀. currently, I'm a project collaborator [@Story Squad](https://www.storysquad.education/).
-
+I'm Jorge Manzur, a technology enthusiast with a drive for expanding skills in software development, currently focusing on web-based applications technologies such as Javascript, React, Node.js, Express, PostgreSQL, and Pythons.
+A highly motivated individual that always seeks opportunities to improve technical challenges by breaking down complexity, adding integration of improvement, and levering teamwork in the process
 <br />
 
 <a href="https://twitter.com/barthimus">
@@ -19,7 +19,7 @@ I'm Jorge Manzur, a Full Stack Developer 🚀. currently, I'm a project collabor
 <br />
   
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning Typescript and Recoil; 
+- 🌱 I’m currently focusing in improving proficiency with backend technologies; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@manzur1990](https://twitter.com/barthimus);
 
