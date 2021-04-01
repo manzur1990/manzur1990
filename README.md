@@ -18,8 +18,9 @@ A highly motivated individual that always seeks opportunities to improve technic
 <br />
 <br />
   
-**Talking about Personal Stuffs:**
-- 🌱 I’m currently focusing in improving proficiency with backend technologies; 
+**Currently working on:**
+- 🌱 I’m focusing in improving proficiency with backend technologies; 
+-  Additionally, I am job hunting and looking forward to join a team of like minded developers; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@manzur1990](https://twitter.com/barthimus);
 
