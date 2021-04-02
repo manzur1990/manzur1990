@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Jorge Manzur, a technology enthusiast with a drive for expanding skills in software development, currently focusing on web-based applications technologies such as Javascript, React, Node.js, Express, PostgreSQL, and Pythons.
+I'm Jorge Manzur, full-stack engineer with a drive for expanding skills in software development, currently focusing on web-based applications technologies such as Javascript, React, Node.js, Express, PostgreSQL, and Pythons.
 A highly motivated individual that always seeks opportunities to improve technical challenges by breaking down complexity, adding integration of improvement, and levering teamwork in the process
 <br />
 
