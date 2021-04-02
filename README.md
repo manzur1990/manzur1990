@@ -18,7 +18,7 @@ A highly motivated individual that always seeks opportunities to improve technic
 <br />
 <br />
   
-**Currently working on:**
+**Current status:**
 - 🌱 I’m focusing in improving proficiency with backend technologies; 
 -  Additionally, I am job hunting and looking forward to join a team of like minded developers; 
 - 💬 Ask me about anything, I am happy to help;
